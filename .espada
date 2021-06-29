@@ -1,0 +1,1 @@
+{"name":"IceKnife","include_dir":"include","header_files":["include/game.h"],"src_dir":"src","src_files":["src/game.cpp"],"use_conan":false,"lock_cmake":false,"project_type":"lib","include_test":true,"test_include_dir":"include","test_src_dir":"src","test_files":["test/src/game.test.cpp"],"test_dir":"test","testing_framework":"catch"}
