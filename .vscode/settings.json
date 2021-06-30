@@ -1,5 +1,6 @@
 {
     "cmake.configureSettings": {
         "CMAKE_TOOLCHAIN_FILE": "/opt/homebrew/Cellar/vcpkg/scripts/buildsystems/vcpkg.cmake"
-    }
+    },
+    "restructuredtext.confPath": ""
 }
